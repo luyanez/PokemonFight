@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">PokemonGame</string>
+    <string name="resetButton">Reset</string>
+    <string name="megaPunchText">Mega Punch</string>
+    <string name="dizzyPunchText">Dizzy Punch</string>
+    <string name="doubleHitText">Double hit</string>
+    <string name="rageText">Rage</string>
+    <string name="pichuText">Pichu</string>
+    <string name="_0Text">0</string>
+    <string name="togepiText">Togepi</string>
+    <string name="gameOverMessage">Game Over Message</string>
+    <string name="gameOver">Game Over!</string>
+    <string name="resetText">Reset</string>
+</resources>
